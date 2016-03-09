@@ -13,7 +13,7 @@ Include the script in your html file, then call visualize() with an object of op
 
 The object must contain a reference to the container where you want the visuals to appear:
 
-```
+```javascript
 var myContainer = document.getElementById("myContainer");
 
 visualize({
@@ -50,3 +50,5 @@ visualize({
 * __visualRotationDirection:__ The direction the visuals rotate into, 'left' or 'right'.
 * __imageRotationDirection:__ The direction the image rotates into, 'left' or 'right'.
 * __showControls:__ set to true if you want a play and pause button into the circle.
+
+**_More shapes, options and improvements will be added_**
