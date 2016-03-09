@@ -53,6 +53,6 @@ visualize({
 * __imageRotationSpeed:__ The speed in which the image rotates, recommended values between 0 and 2,
 * __visualRotationDirection:__ The direction the visuals rotate into, 'left' or 'right'.
 * __imageRotationDirection:__ The direction the image rotates into, 'left' or 'right'.
-* __showControls:__ set to true if you want a play and pause button into the circle. **IMPORTANT:** font-awesome is required for the button to appear!
+* __showControls:__ set to true if you want a play and pause button into the circle. **IMPORTANT:** Font Awesome is required for the button to appear! [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 **_More shapes, options and improvements will be added_**
