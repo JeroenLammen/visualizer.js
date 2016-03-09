@@ -2,6 +2,7 @@ Visualizer
 ======
 
 A tool to show a visualization from audio being played from an audio element. 
+
 _(will be updated with new shapes, options and improvements)_
 
 ![alt text](https://github.com/JeroenLammen/visualizer.js/blob/master/readme_images/Screenshot_1.png "shape 'barsBottom'")
