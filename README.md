@@ -3,7 +3,11 @@ Visualizer
 
 A tool to show a visualization from audio being played from an audio element
 
-### images
+![alt text](https://github.com/JeroenLammen/visualizer.js/blob/master/readme_images/Screenshot_1.png "shape 'barsBottom'")
+
+![alt text](https://github.com/JeroenLammen/visualizer.js/blob/master/readme_images/Screenshot_2.png "shape 'dotsMiddle'")
+
+![alt text](https://github.com/JeroenLammen/visualizer.js/blob/master/readme_images/Screenshot_3.png "shape 'barsCircle'")
 
 ## How to use
 
