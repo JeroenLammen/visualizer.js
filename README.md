@@ -3,7 +3,11 @@ Visualizer
 
 A tool to show a visualization from audio being played from an audio element
 
-### images
+![alt text](https://github.com/JeroenLammen/visualizer.js/blob/master/readme_images/Screenshot_1.png "shape 'barsBottom'")
+
+![alt text](https://github.com/JeroenLammen/visualizer.js/blob/master/readme_images/Screenshot_2.png "shape 'dotsMiddle'")
+
+![alt text](https://github.com/JeroenLammen/visualizer.js/blob/master/readme_images/Screenshot_3.png "shape 'barsCircle'")
 
 ## How to use
 
@@ -49,6 +53,6 @@ visualize({
 * __imageRotationSpeed:__ The speed in which the image rotates, recommended values between 0 and 2,
 * __visualRotationDirection:__ The direction the visuals rotate into, 'left' or 'right'.
 * __imageRotationDirection:__ The direction the image rotates into, 'left' or 'right'.
-* __showControls:__ set to true if you want a play and pause button into the circle.
+* __showControls:__ set to true if you want a play and pause button into the circle. **IMPORTANT:** Font Awesome is required for the button to appear! [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 **_More shapes, options and improvements will be added_**
